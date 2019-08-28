@@ -4,7 +4,7 @@ Someone tried to scam me by sending me a fake csgo jackpot site. After short inv
 
 ## Authors
 
-* **Jakub** - *Initial work* - [batonekk](https://github.com/batonekk)
+* **Jakub** - *Initial work* - [b1ten](https://github.com/b1ten)
 
 See also the list of [contributors](https://github.com/batonekk/db-spammer/contributors) who participated in this project.
 
